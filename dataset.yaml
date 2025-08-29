@@ -1,0 +1,8 @@
+path: \\?\C:\Users\Hector\Desktop\LenguajeVocales\Dataset
+train: train
+val: val
+test:
+
+names:
+    0: A
+    1: E
